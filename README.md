@@ -11,4 +11,10 @@ cpu使用全志V3S，2寸spi显示屏、wifi+蓝牙模块RTL8723BS（天线）�
 
 这是之前版本的升级版本，之前是v3s的cpu，内置ram 64m v3x是128m
 
-链接：https://pan.baidu.com/s/1YF6v1Lnjh2QxIbE6zqrY2g?pwd=xwuy 提取码：xwuy
+
+由于rootfs中包含很多的三方的库，导致比较大，不能上传，我放在我的百度网盘里面
+
+
+
+链接：https://pan.baidu.com/s/1-erk5LTR0cR8KbZ5O9MdFA?pwd=pyge 
+提取码：pyge
