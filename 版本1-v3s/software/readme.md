@@ -1,0 +1,1 @@
+debian文件系统需要将etc文件夹下的wpa_supplicant.conf文件中的ssid和psk改为你自己的wifi名称和密码
